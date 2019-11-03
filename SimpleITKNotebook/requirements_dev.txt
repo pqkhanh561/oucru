@@ -1,0 +1,6 @@
+pytest
+markdown
+lxml
+pyenchant
+ipython<=6.5.0
+-rPython/requirements.txt
